@@ -47,7 +47,7 @@ def game_hash
       :slam_dunks => 5
     },
     {:player_name => "Jason Terry",
-      :number => ,
+      :number => 31,
       :shoe =>  ,
       :points => ,
       :rebounds => ,
